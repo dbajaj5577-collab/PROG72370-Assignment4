@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\bajaj\\Desktop\\level 2\\dsa\\dsa repos\\Assignment4_BST\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{354C2F56-094F-44BD-9842-665729A890D1}|Assignment4_BST\\Assignment4_BST.vcxproj|C:\\Users\\bajaj\\Desktop\\level 2\\dsa\\dsa repos\\Assignment4_BST\\Assignment4_BST\\main1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{354C2F56-094F-44BD-9842-665729A890D1}|Assignment4_BST\\Assignment4_BST.vcxproj|solutionrelative:Assignment4_BST\\main1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{354C2F56-094F-44BD-9842-665729A890D1}|Assignment4_BST\\Assignment4_BST.vcxproj|C:\\Users\\bajaj\\Desktop\\level 2\\dsa\\dsa repos\\Assignment4_BST\\Assignment4_BST\\bst1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{354C2F56-094F-44BD-9842-665729A890D1}|Assignment4_BST\\Assignment4_BST.vcxproj|solutionrelative:Assignment4_BST\\bst1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{354C2F56-094F-44BD-9842-665729A890D1}|Assignment4_BST\\Assignment4_BST.vcxproj|C:\\Users\\bajaj\\Desktop\\level 2\\dsa\\dsa repos\\Assignment4_BST\\Assignment4_BST\\bst1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{354C2F56-094F-44BD-9842-665729A890D1}|Assignment4_BST\\Assignment4_BST.vcxproj|solutionrelative:Assignment4_BST\\bst1.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{354C2F56-094F-44BD-9842-665729A890D1}|Assignment4_BST\\Assignment4_BST.vcxproj|C:\\Users\\bajaj\\Desktop\\level 2\\dsa\\dsa repos\\Assignment4_BST\\Assignment4_BST\\main1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{354C2F56-094F-44BD-9842-665729A890D1}|Assignment4_BST\\Assignment4_BST.vcxproj|solutionrelative:Assignment4_BST\\main1.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 25,
+          "SelectedChildIndex": 24,
           "Children": [
             {
               "$type": "Bookmark",
@@ -117,40 +117,44 @@
               "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "main1.c",
               "DocumentMoniker": "C:\\Users\\bajaj\\Desktop\\level 2\\dsa\\dsa repos\\Assignment4_BST\\Assignment4_BST\\main1.c",
               "RelativeDocumentMoniker": "Assignment4_BST\\main1.c",
-              "ToolTip": "C:\\Users\\bajaj\\Desktop\\level 2\\dsa\\dsa repos\\Assignment4_BST\\Assignment4_BST\\main1.c",
-              "RelativeToolTip": "Assignment4_BST\\main1.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAkAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\bajaj\\Desktop\\level 2\\dsa\\dsa repos\\Assignment4_BST\\Assignment4_BST\\main1.c*",
+              "RelativeToolTip": "Assignment4_BST\\main1.c*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-07-16T19:55:00.846Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "bst1.h",
               "DocumentMoniker": "C:\\Users\\bajaj\\Desktop\\level 2\\dsa\\dsa repos\\Assignment4_BST\\Assignment4_BST\\bst1.h",
               "RelativeDocumentMoniker": "Assignment4_BST\\bst1.h",
               "ToolTip": "C:\\Users\\bajaj\\Desktop\\level 2\\dsa\\dsa repos\\Assignment4_BST\\Assignment4_BST\\bst1.h",
               "RelativeToolTip": "Assignment4_BST\\bst1.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2026-07-16T19:54:25.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "bst1.c",
               "DocumentMoniker": "C:\\Users\\bajaj\\Desktop\\level 2\\dsa\\dsa repos\\Assignment4_BST\\Assignment4_BST\\bst1.c",
               "RelativeDocumentMoniker": "Assignment4_BST\\bst1.c",
               "ToolTip": "C:\\Users\\bajaj\\Desktop\\level 2\\dsa\\dsa repos\\Assignment4_BST\\Assignment4_BST\\bst1.c",
               "RelativeToolTip": "Assignment4_BST\\bst1.c",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAAAFUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2026-07-16T19:54:38.738Z",
               "EditorCaption": ""
