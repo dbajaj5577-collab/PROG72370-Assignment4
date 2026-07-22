@@ -51,3 +51,13 @@ Node* search(Node* root, char value)
     return search(root->right, value); // if not found in the left subtree, it will search in the right subtree.
 }
 
+// Function to print the tree in alphabetical order
+void inorder(Node* root)
+{
+    if (root != NULL) // it checks if the current node is not NULL
+    {
+        inorder(root->left); // first goes to the left subtree
+        printf("%c ", root->data); // it prints the data stored in the current node
+        inorder(root->right); // then goes to the right subtree
+    }
+}
