@@ -61,3 +61,14 @@ void inorder(Node* root)
         inorder(root->right); // then goes to the right subtree
     }
 }
+
+// Function to count the total number of nodes
+int countNodes(Node* root)
+{
+    if (root == NULL) // check if the current node is NULL
+    {
+        return 0; // if the node is NULL then it will return 0
+    }
+
+    return 1 + countNodes(root->left) + countNodes(root->right); // counts the current node and then counts the nodes in the left and right subtree, recursively.
+}
