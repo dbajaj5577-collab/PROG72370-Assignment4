@@ -72,3 +72,22 @@ int countNodes(Node* root)
 
     return 1 + countNodes(root->left) + countNodes(root->right); // counts the current node and then counts the nodes in the left and right subtree, recursively.
 }
+
+// Function to determine the height of the tree
+int treeHeight(Node* root)
+{
+    if (root == NULL) // check if the current node is NULL
+    {
+        return -1; // it returns -1 because -1 is the height of BST when it is empty
+    }
+
+    int leftHeight = treeHeight(root->left); // calculate the height of left subtree
+    int rightHeight = treeHeight(root->right); // calculates the height of the right subtree
+
+    if (leftHeight > rightHeight) // check if height of left subtree is greater than right subtree
+    {
+        return leftHeight + 1; // if it is greater than right subtree, then it will return height +1
+    }
+
+    return rightHeight + 1; // else it will return right subtree height +1
+}
